@@ -1,3 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using FilesSizes;
 
-Console.WriteLine("Hello, World!");
+const string path = "./";
+
+TreeView.Print(path);
