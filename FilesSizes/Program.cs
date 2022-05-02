@@ -1,5 +1,5 @@
-﻿using FilesSizes;
+﻿const string path = "./";
 
-const string path = "./";
+await FilesSizes.ParamsHandler.Execute(args);
 
-TreeView.Print(path);
+FilesSizes.TreeView.Print(path);
