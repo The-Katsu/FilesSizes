@@ -114,4 +114,4 @@ Options:
 ```powershell
 >dotnet run --quite --path "C:\Games" --output "../sizes-test.txt" --humanread
 ```
-Результат выполнения программы можно наблюдать в репозитории на главной странице.
+Результат выполнения программы можно наблюдать в репозитории на главной странице или [по ссылке](https://github.com/The-Katsu/FilesSizes/blob/main/sizes-test.txt).
